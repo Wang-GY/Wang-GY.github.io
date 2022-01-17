@@ -3,7 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-I am a Master student at Computer Science Department of Southern University of Science and Technology (SUSTech). My research interests include **coding theory** and **combinatorics**. I also maintain interest in **sequences design**.
+I am a Master student at Computer Science Department of Southern University of Science and Technology (SUSTech). Currently I am a member of [SUSTech CoCrypto lab](https://cryptosus.tech).
+
+My research interests include **coding theory** and **combinatorics**. I also maintain interest in **sequences design**.
 
 
 ## Biography
