@@ -3,8 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am a Master student at Computer Science Department of Southern University of Science and Technology (SUSTech). Currently I am a member of [SUSTech CoCrypto lab](https://cryptosus.tech).
-
+I am a Master student at Computer Science Department of Southern University of Science and Technology (SUSTech). Currently I am a member of [SUSTech CoCrypto lab](https://cryptosus.tech). 
 My research interests include **coding theory** and **combinatorics**. I also maintain interest in **sequences design**.
 
 
@@ -16,6 +15,10 @@ My research interests include **coding theory** and **combinatorics**. I also ma
 - **Southern University of Science and Technology (SUSTech)** *Sept. 2015 – July 2019*
   - B.Eng. in Computer Science and Technology
 
+Here is my [CV](/assets/CV_gwang-2022-01-18.pdf) (last update: 2022-01-18).
+
 ## Languages
 - Chinese (native)
 - English (fluent)
+
+[Photo](/assets/images/bio-photo.jpg){: .btn .btn--info}
