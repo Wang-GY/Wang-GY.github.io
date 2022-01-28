@@ -71,7 +71,7 @@ author:
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en-US&user=wZZIM3IAAAAJ"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
