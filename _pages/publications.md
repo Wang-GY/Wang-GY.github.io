@@ -8,7 +8,7 @@ layout: splash
 
 ### Conference Proceedings
 
-- <u>Geyang Wang</u> and Qi Wang, On the size distribution of Levenshtein balls with radius one, In 12th International Workshop on Coding and Cryptography. **WCC 2022**. [[paper]](https://www.wcc2022.uni-rostock.de/storages/uni-rostock/Tagungen/WCC2022/Papers/WCC_2022_paper_55.pdf) [[slides]]((/assets/slides/WCC2022_slides.pdf))
+- <u>Geyang Wang</u> and Qi Wang, On the size distribution of Levenshtein balls with radius one, In 12th International Workshop on Coding and Cryptography. **WCC 2022**. [[paper]](https://www.wcc2022.uni-rostock.de/storages/uni-rostock/Tagungen/WCC2022/Papers/WCC_2022_paper_55.pdf) [[slides]](/assets/slides/WCC2022_slides.pdf)
 
 - <u>Geyang Wang</u> and Qi Wang, An OACF-preserving operation based on Parker’s transformation, In 9th International Workshop on Signal Design and its Applications in Communications. **IWSDA 2019**. [[paper](https://arxiv.org/abs/2004.03799)]
 
@@ -19,4 +19,5 @@ layout: splash
 
 
 
-Last updated: {{ site.time | date: '%B %d, %Y' }}
+Last updated: March 10, 2022
+<!-- Last updated: {{ site.time | date: '%B %d, %Y' }} -->
