@@ -15,7 +15,7 @@ My research interests include **coding theory** and **combinatorics**. I also ma
 - **Southern University of Science and Technology (SUSTech)** *Sept. 2015 – July 2019*
   - B.Eng. in Computer Science and Technology
 
-Here is my [CV](/assets/CV_gwang-2022-01-18.pdf) (last update: January 18, 2022).
+Here is my [CV](/assets/CV_gwang.pdf) (last update: April 7, 2022).
 
 ## Languages
 - Chinese (native)
