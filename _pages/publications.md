@@ -17,7 +17,7 @@ layout: splash
 
 ### Preprint
 
-<!-- - <u>Geyang Wang</u> and Qi Wang, On the size distribution of Levenshtein balls with radius one, submitted to **IEEE transactions on Information Theory** [[arXiv:2108.06934](https://arxiv.org/abs/2108.06934)]. -->
+- <u>Geyang Wang</u> and Qi Wang, On the size distribution of Levenshtein balls with radius one, 2022 [[arXiv](https://arxiv.org/abs/2204.02201)].
 
 
 
