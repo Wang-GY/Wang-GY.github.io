@@ -6,7 +6,7 @@ layout: splash
 
 ### Journal Papers
 
-- <u>Geyang Wang</u> and Qi Wang, Q-ary non-overlapping codes: a generating function approach, **IEEE transactions on Information Theory**, accepted. [[arXiv:2108.06934](https://arxiv.org/abs/2108.06934)]
+- <u>Geyang Wang</u> and Qi Wang, Q-ary non-overlapping codes: a generating function approach, **IEEE transactions on Information Theory**, 2022. [paper](https://ieeexplore.ieee.org/document/9758795)
 
 ### Conference Proceedings
 

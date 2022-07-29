@@ -6,7 +6,7 @@ title: "CV"
 
 ## Education
 
-- **Southern University of Science and Technology (SUSTech)** *Sept. 2019 – Present* 
+- **Southern University of Science and Technology (SUSTech)** *Sept. 2019 – July 2022* 
   - Master student
   - Supervisor: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) (SUSTech)
 - **Southern University of Science and Technology (SUSTech)** *Sept. 2015 – July 2019*
