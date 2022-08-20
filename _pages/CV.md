@@ -6,6 +6,10 @@ title: "CV"
 
 ## Education
 
+- **University of Maryland - College Park (UMD), USA**, *Aug. 2022 - Present*
+  - PhD student
+  - Supervisor: [Prof. Alexander Barg](https://user.eng.umd.edu/~abarg/)
+
 - **Southern University of Science and Technology (SUSTech)** *Sept. 2019 – July 2022* 
   - Master student
   - Supervisor: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) (SUSTech)

@@ -24,7 +24,7 @@ search: true
 
 # my setting
 locate: "en-US"
-logo: "/assets/images/sustech-logo.png"
+logo: "/assets/images/logo-umd.png"
 masthead_title: "Home"
 
 # Build settings
@@ -35,7 +35,8 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+# timezone: Asia/Shanghai
+timezone: America/Detroit
 include:
   - _pages
 
@@ -65,7 +66,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "王戈扬"
   email  : "wanggy2019@sustech.edu.cn"
-  location : "Shenzhen, China"
+  location : "College Park, MD, USA"
   links:
     # - label: "Research Gate"
     #   icon: "fas fa-fw fa-link"
