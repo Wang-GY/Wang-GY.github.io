@@ -24,7 +24,7 @@ search: true
 
 # my setting
 locate: "en-US"
-logo: "/assets/images/logo-umd.png"
+logo: "/assets/images/logo_umd.png"
 masthead_title: "Home"
 
 # Build settings
