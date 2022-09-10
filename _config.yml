@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Geyang Wang
-email: wanggy2019@sustech.edu.cn
+email: wanggy@umd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Geyang Wang's homepage.
 # twitter_username: username

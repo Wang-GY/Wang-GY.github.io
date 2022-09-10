@@ -8,7 +8,8 @@ title: "About"
 I am a PhD student at University of Maryland - College Park.
 My research interests include **coding theory** and **combinatorics**. I also maintain interest in **sequences design**.
 
- Previously I was a member of [SUSTech CoCrypto lab](https://cryptosus.tech). 
+<!-- I was fortunate to be advised by Prof.[Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) during my master and undergraduate study.  -->
+I spent 7 wonderful years at [SUSTech](https://www.sustech.edu.cn/en/). During that time, I was fortunate to be advised by Prof.[Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/), and I was a member of [SUSTech CoCrypto lab](https://cryptosus.tech).
 
 ## Biography
 
@@ -23,9 +24,5 @@ My research interests include **coding theory** and **combinatorics**. I also ma
   - B.Eng. Computer Science and Engineering
 
 Here is my [CV](/assets/CV_gwang.pdf) (last update: April 7, 2022).
-
-## Languages
-- Chinese (native)
-- English (fluent)
 
 [Photo](/assets/images/bio-photo.jpg){: .btn .btn--info}
