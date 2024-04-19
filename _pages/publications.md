@@ -6,7 +6,8 @@ layout: splash
 
 ### Journal Papers
 
-- <u>Geyang Wang</u> and Qi Wang, Q-ary non-overlapping codes: a generating function approach, **IEEE transactions on Information Theory**, 2022. [paper](https://ieeexplore.ieee.org/document/9758795)
+- <u>Geyang Wang</u> and Qi Wang, On the size distribution of Levenshtein balls with radius one, **Designs, Codes and Cryptography** 2024. [link](https://link.springer.com/article/10.1007/s10623-024-01382-1) [arXiv](https://arxiv.org/abs/2204.02201)
+- <u>Geyang Wang</u> and Qi Wang, Q-ary non-overlapping codes: a generating function approach, **IEEE Transactions on Information Theory**, 2022. [link](https://ieeexplore.ieee.org/document/9758795)
 
 ### Conference Proceedings
 
@@ -15,10 +16,11 @@ layout: splash
 - <u>Geyang Wang</u> and Qi Wang, An OACF-preserving operation based on Parker’s transformation, In 9th International Workshop on Signal Design and its Applications in Communications. **IWSDA 2019**. [[paper](https://arxiv.org/abs/2004.03799)]
 
 
-### Preprint
+### Preprints
 
-- <u>Geyang Wang</u> and Qi Wang, On the size distribution of Levenshtein balls with radius one, 2022 [[arXiv](https://arxiv.org/abs/2204.02201)].
-
+- <u>Geyang Wang</u> and Qi Wang, On the maximum size of variable-length non-overlapping codes, 2024 [[arXiv](https://arxiv.org/abs/2402.18896)].
+- <u>Geyang Wang</u> and Qi Wang, Storage codes and recoverable systems on lines and grids
+, 2023 [[arXiv](https://arxiv.org/abs/2308.14558)][[slides]()].
 
 
 
