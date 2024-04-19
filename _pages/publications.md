@@ -19,7 +19,7 @@ layout: splash
 ### Preprints
 
 - <u>Geyang Wang</u> and Qi Wang, On the maximum size of variable-length non-overlapping codes, 2024 [[arXiv](https://arxiv.org/abs/2402.18896)].
-- <u>Geyang Wang</u> and Qi Wang, Storage codes and recoverable systems on lines and grids
+- Alexander Barg, Ohad Elishco, Ryan Gabrys, <u>Geyang Wang<u>, Eitan Yaakobi, Storage codes and recoverable systems on lines and grids
 , 2023 [[arXiv](https://arxiv.org/abs/2308.14558)][[slides]()].
 
 
